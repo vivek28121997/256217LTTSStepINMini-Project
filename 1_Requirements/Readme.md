@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+Automatic Washing Machine Control Checks
 
 ## Research
 ![Description](Link to Pic)
